@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ============ My additions ============ #
+
+# Environments
+my_venv
+
+# Files
+*.pkl
+*.bat
